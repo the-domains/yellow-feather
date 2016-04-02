@@ -1,29 +1,41 @@
-name: Yellow Feather
-favicon: null
-layout_spectrum: 0.7869164268486202
-typography_spectrum: 0.56694
 title: Photography Ramblings
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5862218379043043
+  brandStrength: 0.625
+  rhythmicContrast: 0.5
   brandColors:
     - '#e4dee0'
     - '#1f2022'
     - '#bbb8c1'
     - '#5d8390'
     - '#8e6521'
-  brandStrength: 0.625
   lightness: 0.9375
-  saturation: 0.5862218379043043
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Yellow Feather
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.56694
+layout_spectrum: 0.1680851
