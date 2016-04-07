@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Yellow Feather]]></title>
-        <description><![CDATA[Yellow Feather]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Photography Ramblings]]></title>
+        <description><![CDATA[Photography Ramblings]]></description>
+        <link>https://thegrid.ai/yellow-feather/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 23:01:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 03:58:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yellow-feather/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf352cfa-139c-49df-a87b-7bd771317047.jpg">]]></description>
-            <link>undefined2cec1ea1-92d9-4ff2-a0f5-7e6563f41adb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a31e7063-28df-4d05-b22b-3e84ac5a6510.jpg">]]></description>
+            <link>https://thegrid.ai/yellow-feather/2cec1ea1-92d9-4ff2-a0f5-7e6563f41adb/index.html</link>
             <guid isPermaLink="false">2cec1ea1-92d9-4ff2-a0f5-7e6563f41adb</guid>
-            <pubDate>Fri, 01 Apr 2016 23:01:17 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 03:58:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
